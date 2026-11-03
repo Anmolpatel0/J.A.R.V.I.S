@@ -1,8 +1,6 @@
 # ⚙️ MARK LVI (56)
 ### The Ultimate Cross-Platform Personal AI Assistant — By FatihMakes
 
-> 📺 **[Watch the full setup video on YouTube](https://www.youtube.com/@FatihMakes)**
-
 A real-time voice AI that can hear, see, speak, and control your computer — on any OS. Supports Windows, macOS, and Linux. Built on the Gemini Live API for native audio streaming, delivering zero subscriptions and total digital autonomy.
 
 ---
@@ -812,12 +810,9 @@ Licensed under **[Creative Commons BY-NC 4.0](https://creativecommons.org/licens
 
 ---
 
-## 👤 Connect with the Creator
-
 Engineered by a developer building a real-world JARVIS-style assistant.
 ⭐ **Star the repository to support the journey to Mark 100.**
 
 | Platform | Link |
 | --- | --- |
-| YouTube | [@FatihMakes](https://www.youtube.com/@FatihMakes) |
-| Instagram | [@fatihmakes](https://www.instagram.com/fatihmakes) |
+| Instagram | anmol._09_
